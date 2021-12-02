@@ -126,7 +126,5 @@ var endGame = function() {
   }
 };
 
-
-
 // start game when the page loads // play again
 startGame();
